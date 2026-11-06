@@ -1,0 +1,6 @@
+[2026-08-29 09:14:02] Login attempt from 192.168.1.45 by user hello@example.com
+[2026-08-29 09:15:11] Payment processed. Reference: TXN123456
+[2026-08-29 09:20:33] Support ticket opened by support@company.com
+[2026-08-29 09:22:07] Refund issued for TXN-778890
+[2026-08-29 09:25:44] Suspicious login blocked from IP 10.0.0.23
+[2026-08-29 09:30:19] Newsletter signup: contact.us@company.co

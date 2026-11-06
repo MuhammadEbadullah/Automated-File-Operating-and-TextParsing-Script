@@ -1,0 +1,10 @@
+source_file,line_number,match_type,match_value,extracted_at
+notes.txt,2,email,client.lead@business.org,2026-11-06T00:33:28
+notes.txt,3,transaction_id,TXN-445566,2026-11-06T00:33:28
+server_access.log,1,email,hello@example.com,2026-11-06T00:33:28
+server_access.log,1,ip_address,192.168.1.45,2026-11-06T00:33:28
+server_access.log,2,transaction_id,TXN123456,2026-11-06T00:33:28
+server_access.log,3,email,support@company.com,2026-11-06T00:33:28
+server_access.log,4,transaction_id,TXN-778890,2026-11-06T00:33:28
+server_access.log,5,ip_address,10.0.0.23,2026-11-06T00:33:28
+server_access.log,6,email,contact.us@company.co,2026-11-06T00:33:28

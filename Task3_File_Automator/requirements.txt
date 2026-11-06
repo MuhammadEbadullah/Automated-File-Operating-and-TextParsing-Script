@@ -1,0 +1,3 @@
+# No external dependencies.
+# This project uses only Python's standard library:
+# os, re, csv, shutil, sys, argparse, logging, pathlib, datetime

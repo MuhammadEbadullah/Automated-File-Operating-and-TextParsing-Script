@@ -1,0 +1,14 @@
+2026-11-06 00:33:28 | INFO | Run started. Source: ./unsorted_demo | Destination: ./output/organized_result | Sort: True | Dry run: False
+2026-11-06 00:33:28 | INFO | Found 8 file(s) in source directory: ./unsorted_demo
+2026-11-06 00:33:28 | INFO | Moved photo.png -> Images/photo.png
+2026-11-06 00:33:28 | INFO | Moved helper_script.py -> Scripts/helper_script.py
+2026-11-06 00:33:28 | INFO | Moved report.pdf -> Documents/report.pdf
+2026-11-06 00:33:28 | INFO | Moved mystery.xyz -> Others/mystery.xyz
+2026-11-06 00:33:28 | INFO | Moved sales_data.csv -> Spreadsheets/sales_data.csv
+2026-11-06 00:33:28 | INFO | Parsed notes.txt: 2 match(es) found
+2026-11-06 00:33:28 | INFO | Moved notes.txt -> Logs/notes.txt
+2026-11-06 00:33:28 | INFO | Parsed server_access.log: 7 match(es) found
+2026-11-06 00:33:28 | INFO | Moved server_access.log -> Logs/server_access.log
+2026-11-06 00:33:28 | INFO | Moved backup.zip -> Archives/backup.zip
+2026-11-06 00:33:28 | INFO | Wrote 9 row(s) to master CSV: ./output/organized_result/master_extracted_data.csv
+2026-11-06 00:33:28 | INFO | Run complete.

@@ -1,0 +1,14 @@
+INFO | Run started. Source: ./sample_data | Destination: ./output/dry_run_preview | Sort: True | Dry run: True
+INFO | Found 8 file(s) in source directory: ./sample_data
+INFO | [DRY RUN] Would move photo.png -> Images/photo.png
+INFO | [DRY RUN] Would move helper_script.py -> Scripts/helper_script.py
+INFO | [DRY RUN] Would move report.pdf -> Documents/report.pdf
+INFO | [DRY RUN] Would move mystery.xyz -> Others/mystery.xyz
+INFO | [DRY RUN] Would move sales_data.csv -> Spreadsheets/sales_data.csv
+INFO | Parsed notes.txt: 2 match(es) found
+INFO | [DRY RUN] Would move notes.txt -> Logs/notes.txt
+INFO | Parsed server_access.log: 7 match(es) found
+INFO | [DRY RUN] Would move server_access.log -> Logs/server_access.log
+INFO | [DRY RUN] Would move backup.zip -> Archives/backup.zip
+INFO | [DRY RUN] Would write 9 row(s) to master CSV.
+INFO | Run complete.

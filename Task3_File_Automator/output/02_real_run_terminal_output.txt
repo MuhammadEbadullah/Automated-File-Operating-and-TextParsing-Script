@@ -1,0 +1,14 @@
+INFO | Run started. Source: ./unsorted_demo | Destination: ./output/organized_result | Sort: True | Dry run: False
+INFO | Found 8 file(s) in source directory: ./unsorted_demo
+INFO | Moved photo.png -> Images/photo.png
+INFO | Moved helper_script.py -> Scripts/helper_script.py
+INFO | Moved report.pdf -> Documents/report.pdf
+INFO | Moved mystery.xyz -> Others/mystery.xyz
+INFO | Moved sales_data.csv -> Spreadsheets/sales_data.csv
+INFO | Parsed notes.txt: 2 match(es) found
+INFO | Moved notes.txt -> Logs/notes.txt
+INFO | Parsed server_access.log: 7 match(es) found
+INFO | Moved server_access.log -> Logs/server_access.log
+INFO | Moved backup.zip -> Archives/backup.zip
+INFO | Wrote 9 row(s) to master CSV: ./output/organized_result/master_extracted_data.csv
+INFO | Run complete.
