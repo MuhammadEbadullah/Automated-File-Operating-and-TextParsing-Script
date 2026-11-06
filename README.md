@@ -90,10 +90,10 @@ Task3_File_Automator/
 # From inside the Task3_File_Automator folder
 python --version                # use python3 on macOS/Linux
 
-# 1. Preview first (nothing is moved or written)
+# 1. Preview first
 python file_automator.py --source ./sample_data --dest ./organized --dry-run
 
-# 2. Run for real (work on a copy so sample_data stays intact)
+# 2. Run for real
 cp -r sample_data unsorted_demo           # Windows: xcopy sample_data unsorted_demo /E /I
 python file_automator.py --source ./unsorted_demo --dest ./organized
 
@@ -159,13 +159,13 @@ INFO | Run complete.
 |---|---|---|---|
 | notes.txt | 2 | email | client.lead@business.org |
 | notes.txt | 3 | transaction_id | TXN-445566 |
-| server_access.log | 1 | email | hello@example.com |
+| server_access.log | 1 | email | ebad@gmail.com |
 | server_access.log | 1 | ip_address | 192.168.1.45 |
 | server_access.log | 2 | transaction_id | TXN123456 |
-| server_access.log | 3 | email | support@company.com |
+| server_access.log | 3 | email | ali@microsoft.com |
 | server_access.log | 4 | transaction_id | TXN-778890 |
 | server_access.log | 5 | ip_address | 10.0.0.23 |
-| server_access.log | 6 | email | contact.us@company.co |
+| server_access.log | 6 | email | contact.us@google.co |
 
 ### Unit tests
 
